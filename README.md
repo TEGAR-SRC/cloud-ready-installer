@@ -80,15 +80,6 @@ sudo cloudflared service install eyJhIjoiNmQyNzlkZGE0ZmM2NGVlNTNhMTE1OTNmNDU4NDY
 
 ---
 
-## 🔧 Rencana Fitur Selanjutnya (Roadmap)
-
-* Integrasi Docker otomatis
-* Pilihan install MariaDB, NGINX, PHP, Node.js
-* Pengenalan Opsi GUI Web Desktop (misal dengan xrdp)
-* Monitoring melalui Telegram Bot
-
----
-
 ## ✨ Kontribusi
 
 Jika kamu ingin membantu pengembangan lebih lanjut, silakan buat Pull Request atau laporkan issue!
